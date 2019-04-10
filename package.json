@@ -1,0 +1,31 @@
+{
+    "name": "find-array-duplicate",
+    "version": "1.0.0",
+    "description": "Find and return duplicated elements in an array.",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha ./test/"
+    },
+    "author": "Khoa Huynh",
+    "license": "MIT",
+    "devDependencies": {
+        "assert": "^1.4.1",
+        "expect": "^24.5.0",
+        "mocha": "^6.1.2"
+    },
+    "keywords": [
+        "npm",
+        "find",
+        "array",
+        "element",
+        "ele",
+        "find array element",
+        "find-array",
+        "array-find"
+    ],
+    "dependencies": {
+        "deep-equal": "^1.0.1",
+        "find-array": "^1.0.0",
+        "lodash": "^4.17.11"
+    }
+}
