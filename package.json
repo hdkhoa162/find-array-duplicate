@@ -20,7 +20,11 @@
         "element",
         "ele",
         "find array element",
-        "find-array",
+        "find-array-duplicate",
+        "duplicate",
+        "duplicated elements",
+        "duplicate elements",
+        "duplicated array elements",
         "array-find"
     ],
     "dependencies": {
