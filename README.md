@@ -1,4 +1,4 @@
-# find-array
+# find-array-duplicate
 
 This plugin is to find and return duplicated array elements.
 
